@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there
+
+I'm a web developer since 2011 and @odoo / @python developer since 2018
+
+### Live long and prosper :vulcan_salute:
 
 <!--
 **neo-oien/neo-oien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
