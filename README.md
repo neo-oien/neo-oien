@@ -1,6 +1,8 @@
 ## Hi there
 
-I'm a web developer since 2011 and @odoo / @python developer since 2018
+I'm a web developer since 2011 and odoo / python developer since 2018
+
+My goal as a programmer this year is: **1500+** :octocat: contributions in 2021.
 
 ### Live long and prosper :vulcan_salute:
 
